@@ -1,0 +1,7 @@
+﻿  first_app.cpp
+C:\Users\senuk\source\repos\Vulkan\SphericalHarmonicsSphere\theBetterVulkanBase\first_app.cpp(102,37): warning C4244: '=': conversion from '_Rep' to 'glm::float32', possible loss of data
+          with
+          [
+              _Rep=double
+          ]
+  theBetterVulkanBase.vcxproj -> C:\Users\senuk\source\repos\Vulkan\SphericalHarmonicsSphere\x64\Debug\theBetterVulkanBase.exe
